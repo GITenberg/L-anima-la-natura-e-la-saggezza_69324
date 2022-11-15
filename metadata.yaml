@@ -1,0 +1,37 @@
+_repo: L-anima-la-natura-e-la-saggezza_69324
+_version: 0.0.1
+contributor:
+  translator:
+    agent_name: Cossa, Mario
+    gutenberg_agent_id: '55213'
+    url: http://www.gutenberg.org/2009/agents/55213
+creator:
+  author:
+    agent_name: Emerson, Ralph Waldo
+    aliases:
+    - Emerson, R. W. (Ralph Waldo)
+    - Emerson, R. Waldo (Ralph Waldo)
+    - Emerson, Waldo
+    birthdate: 1803
+    deathdate: 1882
+    gutenberg_agent_id: '1071'
+    url: http://www.gutenberg.org/2009/agents/1071
+    wikipedia: https://en.wikipedia.org/wiki/Ralph_Waldo_Emerson
+description: ''
+gutenberg_issued: '2022-11-10'
+identifiers:
+  gutenberg: '69324'
+language: it
+pgterms:marc904: https://archive.org/details/EmersonAnimaNaturaSaggezza
+pgterms:marc905: 20200724075903emerson
+pgterms:marc906: '1911'
+pgterms:marc907: Italy
+production_note: Barbara Magni and the Online Distributed Proofreading Team at http://www.pgdp.net
+  (This file was produced from images made available by The Internet Archive)
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: L'anima, la natura e la saggezza
+url: http://www.gutenberg.org/ebooks/69324
